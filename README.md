@@ -84,8 +84,7 @@ This was a team project. My primary contributions focused on:
 
 ## Project Files
 
-- `OnlineSales.sql` — SQL script containing the database structure, tables, relationships, and data population
-- `sales_analysis.xlsx` — Excel analysis and visualizations
+- `MySQLProject.sql` — SQL script containing the database structure, tables, relationships, and data population
 - `screenshots/` — Selected screenshots of the database and analysis
 
 ## Key Takeaways
